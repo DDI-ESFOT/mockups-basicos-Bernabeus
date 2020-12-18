@@ -1,0 +1,27 @@
+body {
+    width: 65%;
+    margin: auto;
+    font-family: Arial, Helvetica, sans-serif;
+}
+
+.title {
+    background-color: #33bebe;
+    color: #fff;
+    font-size: 35px;
+    font-weight: lighter;
+    padding: 25px 0 5px 10px;
+    margin-bottom: 30px;
+}
+
+.content {
+    display: flex;
+}
+
+.img {
+    margin-right: 30px;
+}
+
+.text {
+    color: #7c8b88;
+    font-size: 25px;
+}

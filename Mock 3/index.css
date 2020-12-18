@@ -1,0 +1,59 @@
+body {
+    font-family: sans-serif;
+}
+
+.container {
+    width: 100%;
+    margin-top: 20px;
+    margin-bottom: 20px;
+}
+
+.head img {
+    float: left;
+}
+
+.title {
+    float: right;
+    color: #4d5545;
+}
+
+.head h1{
+    font-size: 60px;
+    font-weight: lighter;
+}
+
+.head p{
+    font-weight: lighter;
+}
+
+.head {
+    border-bottom: 3px solid #bcbbbb;
+    display: inline-block;
+    width: 100%;
+    margin:7px
+}
+.feature {
+    color: #bcbbbb;
+    font-size: 35px;
+    font-weight: lighter;
+    padding-left: 10px;
+    padding-top: 10px;
+}
+
+.row {
+    display: flex;
+    text-align: center;
+}
+
+.appi {
+    padding-right: 15px;
+}
+
+.sun {
+    padding-left: 15px;
+    padding-right: 15px;
+}
+
+.bokeh {
+    padding-left: 15px;
+}
